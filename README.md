@@ -7,3 +7,7 @@ This is for our team python project
 print('hello world')
 ```
 
+Team:
+* Tim Hickey
+* Rose Nolan
+
