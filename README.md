@@ -8,6 +8,6 @@ print('hello world')
 ```
 
 Team:
-* Tim Hickey
+* Timothy Hickey tjhickey724
 * Rose Nolan
 
