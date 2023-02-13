@@ -7,7 +7,7 @@ This is for our team python project
 print('hello world')
 ```
 
-Team Awesomeness!
+Team Cool Kids :D
 * Timothy Hickey tjhickey724
 * Rose Nolan
 
